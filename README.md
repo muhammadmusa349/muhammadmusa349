@@ -15,7 +15,7 @@ My biggest project to date is **AcademyBridge** — a fully-featured educational
 | **Mobile** | Flutter · Dart |
 | **Backend / DB** | Firebase · Firestore · Realtime DB |
 | **APIs** | REST APIs · Google Maps API |
-| **State Management** | Provider · Shared Preferences |
+| **State Management** | Provider · Riverpod · Shared Preferences |
 | **Auth** | Firebase Auth · Google Sign-In |
 | **Tools** | Git · GitHub · Android Studio · Figma · VS Code |
 
@@ -96,7 +96,7 @@ Relevant coursework: Mobile Application Development · Software Engineering · D
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:muhammadmusa1453@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/muhammadmusa349)
 
-📍 Gujranwala, Pakistan · 📞 +92 320 9536139
+📍 Gujranwala, Pakistan · 📞 +92 317 7406033
 
 ---
 
