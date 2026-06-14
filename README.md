@@ -23,7 +23,7 @@ My biggest project to date is **AcademyBridge** — a fully-featured educational
 
 ## 🚀 Featured Projects
 
-### 🎓 [AcademyBridge](https://github.com/muhammadmusa349/capstonetest) — Final Year Project ✅ Completed
+### 🎓 [AcademyBridge] — Final Year Project ✅ Completed
 > A cross-platform educational management platform connecting students, parents, tutors, and academies through a single mobile app.
 
 **Key features:**
