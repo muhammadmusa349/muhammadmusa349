@@ -15,7 +15,7 @@ My biggest project to date is **AcademyBridge** — a fully-featured educational
 | **Mobile** | Flutter · Dart |
 | **Backend / DB** | Firebase · Firestore · Realtime DB |
 | **APIs** | REST APIs · Google Maps API |
-| **State Management** | Provider · Riverpod · Shared Preferences |
+| **State Management** | Provider · Riverpod  |
 | **Auth** | Firebase Auth · Google Sign-In |
 | **Tools** | Git · GitHub · Android Studio · Figma · VS Code |
 
